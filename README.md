@@ -1,2 +1,3 @@
 # pyscripts
-A collection of simple Python scripts
+
+A collection of Python scripts that don't currently belong anywhere else.
